@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "249712944529",
+    "project_id": "timetable-2022-agz",
+    "storage_bucket": "timetable-2022-agz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249712944529:android:c5aa7c49a68ada01a3e630",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249712944529-ifq3pluv2ou1hrbtqk5n05ich101ojm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bignerdranch.android.myapplication",
+            "certificate_hash": "1ece8c433ad8519cf7dbbb274d8a4e68e48d368d"
+          }
+        },
+        {
+          "client_id": "249712944529-udg2vp2hfh2a5bflh12bupaqgm8suter.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARqb5kUm-nZjR2Cl0HpMASpiD5rfw05gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249712944529-udg2vp2hfh2a5bflh12bupaqgm8suter.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
